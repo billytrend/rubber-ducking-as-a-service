@@ -26,5 +26,5 @@ $(document).ready(function() {
 })
 
 $(window).scroll(function() {
-	$("#chevron").fadeOut("slow");
+	$("#chevron").fadeOut(150);
 })
