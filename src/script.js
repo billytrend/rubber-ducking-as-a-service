@@ -24,3 +24,7 @@ $(document).ready(function() {
 	var adviceIndex = Math.floor((Math.random() * raas.advice.length));
 	$("#message").html(raas.advice[adviceIndex]);
 })
+
+$(window).scroll(function() {
+	$("#chevron").fadeOut("slow");
+})

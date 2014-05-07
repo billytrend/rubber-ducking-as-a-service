@@ -5,6 +5,14 @@ body {
 
 }
 
+.chevron {
+	width: 30px;
+	position: fixed;
+	bottom: 40px;
+	left: 50%;
+	margin-left: -15px;
+}
+
 .duck {
 	width: 300px;
 }
