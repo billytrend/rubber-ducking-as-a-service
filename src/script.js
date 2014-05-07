@@ -14,7 +14,10 @@ raas.advice = [
 		"Add a third equal sign, just to be sure.",
 		"That looks like undefined behaviour.",
 		"Has your array overflowed?",
-		"Did you hg update?"
+		"Did you run a hg update?",
+		"What the duck is that?",
+		"Try adding indentation.",
+		"Could you just explain that once more?",
 	]
 
 $(document).ready(function() {
