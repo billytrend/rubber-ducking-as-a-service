@@ -8,26 +8,35 @@ body {
 .chevron {
 	width: 30px;
 	position: fixed;
-	bottom: 40px;
+	bottom: 5%;
 	left: 50%;
 	margin-left: -15px;
+	visibility: hidden;
 }
 
 .duck {
-	width: 300px;
+	min-width: 300px;
 }
 
 .twitter {
 	padding-top: 30px;
 }
 
-.fill{
+@media only screen 
+and (min-device-width: 600px) {
+ 	.fill {
 	font-family: "Neucha";
 	padding-top:100px;
     width:100%;
     height:100%;
     min-height:100%;
+	}
+	.chevron {
+		visibility: visible;
+
+	}
 }
+
 
 .space {
 	height: 100px;

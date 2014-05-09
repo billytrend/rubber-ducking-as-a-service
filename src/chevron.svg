@@ -1,59 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 -256 1792 1792"
-   id="svg3001"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   width="100%"
-   height="100%"
-   sodipodi:docname="chevron_down_font_awesome.svg">
-  <metadata
-     id="metadata3011">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3009" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3007"
-     showgrid="false"
-     inkscape:zoom="0.13169643"
-     inkscape:cx="896"
-     inkscape:cy="896"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3001" />
-  <g
-     transform="matrix(1,0,0,-1,68.338983,1133.5593)"
-     id="g3003">
-    <path
-       d="m 1611,832 q 0,-53 -37,-90 L 923,91 Q 885,53 832,53 778,53 742,91 L 91,742 q -38,36 -38,90 0,53 38,91 l 74,75 q 39,37 91,37 53,0 90,-37 l 486,-486 486,486 q 37,37 90,37 52,0 91,-37 l 75,-75 q 37,-39 37,-91 z"
-       id="path3005"
-       inkscape:connector-curvature="0"
-       style="fill:currentColor" />
-  </g>
+<svg width="142px" height="90px" viewBox="0 0 142 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="chevron" sketch:type="MSLayerGroup" fill="#000000">
+            <g id="g3003" transform="translate(71.000000, 45.000000) scale(1, -1) translate(-71.000000, -45.000000) " sketch:type="MSShapeGroup">
+                <path d="M142,71.395112 C142,68.1568228 140.875909,65.407332 138.627728,63.1466395 L79.2939666,3.48268839 C76.9850235,1.16089613 74.220368,0 71,0 C67.7188703,0 64.9845956,1.16089613 62.7971759,3.48268839 L3.46341463,63.1466395 C1.15447154,65.3462322 0,68.095723 0,71.395112 C0,74.6334012 1.15447154,77.413442 3.46341463,79.7352342 L10.2079589,86.6089613 C12.5776637,88.8696538 15.3423192,90 18.5019255,90 C21.7222935,90 24.4565682,88.8696538 26.7047497,86.6089613 L71,42.0672098 L115.29525,86.6089613 C117.543432,88.8696538 120.277706,90 123.498074,90 C126.657681,90 129.422336,88.8696538 131.792041,86.6089613 L138.627728,79.7352342 C140.875909,77.3523422 142,74.5723014 142,71.395112 L142,71.395112 Z" id="path3005"></path>
+            </g>
+        </g>
+    </g>
 </svg>
