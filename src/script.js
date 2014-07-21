@@ -18,6 +18,25 @@ raas.advice = [
 		"What the duck is that?",
 		"Try adding indentation.",
 		"Could you just explain that once more?",
+		"Can you reproduce this behavior with a test?",
+		"Do you have a failing test?",
+		"Maybe start from scratch?",
+		"What's the error message?",
+		"Any results on google for this?",
+		"Aha, that's weird...",
+		"And this is valid code?",
+		"Sounds like an encoding issue.",
+		"Maybe set a debugger breakpoint?!",
+		"Are you sure this is thread-safe?",
+		"I'm sure you've forgotten just a semicolon.",
+		"Why do you need to write this code at all?",
+		"This lacks at least 2 levels of abstraction!",
+		"We should refactor this mess first.",
+		"You need a service object for this.",
+		"What about extracting this into it's own factory?",
+		"This code is not understandable.",
+		"What about backward compatibility?",
+		"Every time you run this code a kitten dies!"
 	]
 
 $(document).ready(function() {
