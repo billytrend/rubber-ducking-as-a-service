@@ -33,9 +33,9 @@ raas.advice = [
 	"This lacks at least 2 levels of abstraction!",
 	"We should refactor this mess first.",
 	"You need a service object for this.",
-	"What about extracting this into it's own factory?",
+	"What about extracting this into its own factory?",
 	"This code is not understandable.",
-	"What about backward compatibility?",
+	"What about backwards compatibility?",
 	"Every time you run this code a kitten dies!"
 ];
 
