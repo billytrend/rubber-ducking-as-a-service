@@ -37,13 +37,13 @@ raas.advice = [
 		"This code is not understandable.",
 		"What about backward compatibility?",
 		"Every time you run this code a kitten dies!"
-	]
+	];
 
 $(document).ready(function() {
 	var adviceIndex = Math.floor((Math.random() * raas.advice.length));
 	$("#message").html(raas.advice[adviceIndex]);
-})
+});
 
 $(window).scroll(function() {
 	$("#chevron").fadeOut(150);
-})
+});
